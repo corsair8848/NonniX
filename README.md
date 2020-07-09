@@ -8,8 +8,8 @@ Auto built firmware and releases published.
 Build OpenWrt using GitHub Actions.
 [search `Actions-Openwrt` in GitHub](https://github.com/search?q=Actions-openwrt).
 
-[Web Site (https://nonnix.com/)
-[My blog | 中文](https://nonni.cn/)
+[Web Site](https://nonnix.com/)
+[My blog](https://nonni.cn/)
 
 
 ### Acknowledgments
